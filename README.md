@@ -5,7 +5,7 @@
 
 ## OverView Profile
 
-![vinhphan812 github stats](https://github-readme-stats.vercel.app/api?username=vinhphan812&show_icons=true&theme=vision-friendly-dark)
+![vinhphan812 github stats](https://github-readme-stats.vercel.app/api?username=vinhphan812&show_icons=true&theme=vision-friendly-dark&bg_color=45,f46302,5719f8&icon_color=ffffff)
 #####
 [![API_SERVER HUFLIT](https://github-readme-stats.vercel.app/api/pin/?username=vinhphan812&repo=API_HUFLIT_SERVER)](https://github.com/vinhphan812/API_HUFLIT_SERVER)
 [![EXTENSION_HUFLIT](https://github-readme-stats.vercel.app/api/pin/?username=vinhphan812&repo=EXTENSION_HUFLIT)](https://github.com/vinhphan812/EXTENSION_HUFLIT)
